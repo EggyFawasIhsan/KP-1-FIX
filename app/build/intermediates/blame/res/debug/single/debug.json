@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_repeat_focused.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\btn_repeat_focused.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_shuffle.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\btn_shuffle.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foregroundlogo.png.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foregroundlogo.png"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_not.png.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_not.png"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg_wave.png.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_main.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\layout\\list_item_main.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_wave.png.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_wave.png.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foregroundlogo.png.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foregroundlogo.png"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_wave.png.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_repeat.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_repeat.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_repeat_pressed.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_repeat_pressed.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rounded_rect.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\bg_rounded_rect.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_clear.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_clear.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_progress.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\bg_progress.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_shuffle_focused.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\btn_shuffle_focused.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foregroundlogo.png.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foregroundlogo.png"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foregroundlogo.png.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foregroundlogo.png"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_repeat.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\btn_repeat.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_next.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fast_rewind.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_fast_rewind.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_disk.png.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_disk.png"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shuffle.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_shuffle.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foregroundlogo.png.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foregroundlogo.png"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shuffle_pressed.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_shuffle_pressed.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bg_wave.png.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_bg_wave.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\bg_wave.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_wave.png.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_music.png.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_music.png"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_thumb.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\bg_thumb.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_previous.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_previous.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_play_song.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\layout\\activity_play_song.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "D:\\KP\\MusicPlayer-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fast_forward.xml.flat",
+        "source": "D:\\KP\\MusicPlayer-main\\app\\src\\main\\res\\drawable\\ic_fast_forward.xml"
+    }
+]
